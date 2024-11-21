@@ -6,4 +6,4 @@ La base de datos, que abarca registros desde el año 2004, está diseñada para 
 
 A continuación, se presenta el diagrama de entidad-relación que ilustra su estructura:
 
-![Diagrama](/images/picture.jpg)
+![Diagrama](https://raw.githubusercontent.com/noelibaeza/db_espacial/refs/heads/main/diagrama.drawio.png)
